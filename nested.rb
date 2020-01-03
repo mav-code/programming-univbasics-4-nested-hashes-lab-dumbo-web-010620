@@ -134,5 +134,9 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
+     
+     
+     
+     p programmer_hash
 
 end
