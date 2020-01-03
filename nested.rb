@@ -135,7 +135,7 @@ def adding_to_dennis
         }
      }
      
-     :languages << "Assembly"
+      << "Assembly"
      
      p programmer_hash
 
